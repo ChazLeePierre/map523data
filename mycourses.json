@@ -1,0 +1,15 @@
+{
+  "name": "Balcony Level",
+  "quantity": 300,
+  "price": 1170
+},
+{
+  "name": "Lower Level",
+  "quantity": 200,
+  "price": 10434
+},
+{
+  "name": "Courtside",
+  "quantity": 150,
+  "price": 27777
+}
